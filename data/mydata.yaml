@@ -1,0 +1,9 @@
+
+
+train: VOCdevkit/images/train
+val: VOCdevkit/images/val
+
+nc: 1
+
+names: ['t4']
+

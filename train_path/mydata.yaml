@@ -1,0 +1,5 @@
+names:
+- t3
+nc: 1
+train: /home/ymt/yolov5/VOCdevkit/images/train
+val: /home/ymt/yolov5/VOCdevkit/images/val
